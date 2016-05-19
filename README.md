@@ -1,3 +1,3 @@
 # piratecode.se  
 
-* Piratecode.se gjorde i node.js av ett par Webb/systemutvecklare studenter i Malmö. 
+* Piratecode.se gjord i node.js av ett par Webb/systemutvecklare studenter i Malmö. 
